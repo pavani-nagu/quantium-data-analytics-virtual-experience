@@ -1,3 +1,9 @@
+<img width="1000" height="500" alt="trial_88" src="https://github.com/user-attachments/assets/f93390c5-1d81-485d-b3f3-5c8a305a4221" />
+<img width="1000" height="500" alt="trial_86" src="https://github.com/user-attachments/assets/e9572a8e-c026-4ad5-acc9-5f5974c91a55" />
+<img width="1000" height="500" alt="trial_77" src="https://github.com/user-attachments/assets/a431e0f2-5f7a-4b8e-8e98-4c0b2af5ed72" />
+<img width="640" height="480" alt="top brands by sales" src="https://github.com/user-attachments/assets/d9ea09af-2d72-4cc7-826a-1a61b804ef57" />
+<img width="640" height="480" alt="sales by premium customer" src="https://github.com/user-attachments/assets/f55e6637-8ef1-4f8f-a0ff-ba9551a7922c" />
+<img width="640" height="480" alt="sales by lifestage" src="https://github.com/user-attachments/assets/63ae721c-9e43-4c2f-a850-f7ee54801afc" />
 # Quantium Data Analytics Virtual Experience Program
 
 ## Overview
